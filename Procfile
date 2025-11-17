@@ -1,0 +1,1 @@
+web: gunicorn edusafe_backend.wsgi
